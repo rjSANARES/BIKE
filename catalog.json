@@ -1,0 +1,120 @@
+{"Biking":[{
+
+    "ProductName": "HONDA",
+  
+    "ProductDescription": " Size:56cm Color: Silver Applicable model:Wave/XRM 100/125",
+  
+    "ProductImage": "honda3.jpeg",
+  
+    "ProductPrice":"₱ 100,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "RUSIV2",
+  
+    "ProductDescription": " The forged alloy top and bottom clamps ensure a solid connection to the saddle without adding excessive weight. ",
+  
+    "ProductImage": "rusiv2.jpeg",
+  
+    "ProductPrice": "₱  200,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "YAMAHA TG-10",
+  
+    "ProductDescription": " A Front Shock typically consists of two blades which are joined at the top by a fork crown.  ",
+  
+    "ProductImage": "TG-10.jpeg",
+  
+    "ProductPrice": "₱ 200,00"
+  
+  },
+  
+  {
+  
+    "ProductName": "MT-09",
+  
+    "ProductDescription": " Tires have tread compounds that specialize in grip and tread patterns with large blocky tread for maximum traction. ",
+  
+    "ProductImage": "Mt-09.jpg",
+  
+    "ProductPrice": "₱ 150,000"
+  
+  },
+  
+  {
+  
+    "ProductName": "Y-SNIPER",
+  
+    "ProductDescription": " Handlebar provides more steering control and is favoured for gravel riding. ",
+  
+    "ProductImage": "yamahasniper.jpg",
+  
+    "ProductPrice": "₱ 500,000"
+  
+  },
+  
+  { 
+  
+    "ProductName": "SUZUKI SPORTS",
+  
+    "ProductDescription": " Provides more stability on uneven ground and prevents muscles from tensing up. ",
+  
+    "ProductImage": "suzuki.jpeg",
+  
+    "ProductPrice": "₱ 130,0000"
+  
+  },
+  
+  {
+  
+    "ProductName": "HINDA CLICK",
+  
+    "ProductDescription": " Act as a rotating crank, part of the crankset, allowing the rider to apply force to the pedal transferred via the crank arm to the forward gears to drive the bicycle chain. ",
+  
+    "ProductImage": "click.jpeg",
+  
+    "ProductPrice": "₱ 350,000"
+  
+  },
+    {
+  
+    "ProductName": "MIO",
+  
+    "ProductDescription": " Act as a rotating crank, part of the crankset, allowing the rider to apply force to the pedal transferred via the crank arm to the forward gears to drive the bicycle chain. ",
+  
+    "ProductImage": "Mio.png",
+  
+    "ProductPrice": "₱ 350,000"
+  
+  },
+    {
+  
+      "ProductName": "RUSI",
+  
+      "ProductDescription": " Act as a rotating crank, part of the crankset, allowing the rider to apply force to the pedal transferred via the crank arm to the forward gears to drive the bicycle chain. ",
+  
+      "ProductImage": "rusi.jpeg",
+  
+      "ProductPrice": "₱ 350,000"
+  
+    },
+  
+  
+  {
+  
+    "ProductName": "JRP Discbreak",
+  
+    "ProductDescription": " A device for slowing or stopping a vehicle or other moving mechanism by the absorption or transfer of the energy of momentum, usually by means of friction. ",
+  
+    "ProductImage": "bigbike.png",
+  
+    "ProductPrice":"₱ 450,0000"
+  
+  }
+  
+    ]}
